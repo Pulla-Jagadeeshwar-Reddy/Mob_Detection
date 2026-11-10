@@ -1,0 +1,8 @@
+opencv-python>=4.5
+numpy
+scikit-learn
+matplotlib
+pillow
+torch
+torchvision
+timm
